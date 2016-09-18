@@ -1,5 +1,5 @@
 {
-  "name": "scotchy",
+  "name": "less",
   "version": "1.0.1",
   "description": "Gulp Starter with Less",
   "main": " ",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/scotch-io/gulp-and-less-starter-kit"
+    "url": ""
   },
   "author": "Nicholas Cerminara",
   "license": "MIT",
